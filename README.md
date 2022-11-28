@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2> Hi everyone 👋  </h2>
+  <li>💻 I'm a beginning front-end developer;  </li>
+  <li>🌱 I’m currently learning HTML/CSS, JavaScript and a little bit React; </li>
+  <li> 🤔 I had more that three years experience as a network engineer but decided to change my path 😁 and I really enjoy it; </li>
+  <li> 👯 I will be happy to participate in some interesting project </li>
+</ul>
 
-<!--
-**Axigy/Axigy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>:bell: How can you contact with me:</h4>
+<ul>
+  <li>Linkedin: <a href="https://www.linkedin.com/in/anhelina-kruptseva/" target="_blank">Anhelina Kruptseva</a></li>
+  <li>Emain: <a href="mailto:axigy00@gmail.com"target="_blank">axigy00@gmail.com</a> </li>
+</ul>
