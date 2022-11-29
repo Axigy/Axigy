@@ -2,7 +2,7 @@
 <ul>
   <li>💻 I'm a beginning front-end developer;  </li>
   <li>🌱 I’m currently learning HTML/CSS, JavaScript and a little bit React; </li>
-  <li> 🤔 I had more that three years experience as a network engineer but decided to change my path 😁 and I really enjoy it; </li>
+  <li> 🤔 I had more than three years experience as a network engineer but decided to change my path 😁 and I really enjoy it; </li>
   <li> 👯 I will be happy to participate in some interesting project </li>
 </ul>
 
