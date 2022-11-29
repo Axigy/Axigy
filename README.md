@@ -1,4 +1,5 @@
 <h2> Hi everyone 👋  </h2>
+<ul>
   <li>💻 I'm a beginning front-end developer;  </li>
   <li>🌱 I’m currently learning HTML/CSS, JavaScript and a little bit React; </li>
   <li> 🤔 I had more that three years experience as a network engineer but decided to change my path 😁 and I really enjoy it; </li>
